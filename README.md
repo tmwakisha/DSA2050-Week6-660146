@@ -1,4 +1,4 @@
-# DSA 2050 – Week 6 Guided Regression Lab
+# DSA2050 - Week 6 Guided Regression Lab
 
 **Student name:** Tamara Mwakisha  
 **Student ID:** 660146
