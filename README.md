@@ -25,5 +25,3 @@ Mean and median `DummyRegressor` baselines, Linear Regression, Ridge Regression 
 ## Files
 - `DSA2050_Week6_Guided_Regression_Lab.ipynb` — executed lab notebook with code, output tables, charts, and interpretation.
 - `DSA2050_Week6_Sales_Data.csv` — supplied source data.
-
-Before submission, replace the name/ID placeholders, restart the notebook kernel, and run all cells from top to bottom.
